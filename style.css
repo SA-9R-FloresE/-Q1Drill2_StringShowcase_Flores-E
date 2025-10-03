@@ -1,0 +1,17 @@
+ body {
+        font-family: 'Press Start 2P', cursive;
+        padding: 20px;
+        background-image: url(https://i.pinimg.com/originals/34/c0/d1/34c0d19c528865185b4839865651ae4b.gif);
+      }
+      input, button {
+        margin-top: 10px;
+        padding: 8px;
+        display: block;
+      }
+      #output {
+        margin-top: 20px;
+        white-space: pre-wrap;
+        background: #f3f3f3;
+        padding: 15px;
+        border-radius: 5px;
+      }
